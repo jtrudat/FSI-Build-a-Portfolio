@@ -1,0 +1,28 @@
+body {
+    
+    text-align: center;
+}
+h1 {
+    color: cadetblue;
+}
+h2 {
+    color: goldenrod
+}
+div {
+    text-align: center;
+}
+.things {
+    background-color: rgb(99, 93, 93);
+    border-radius: 30px;
+    border: 8px dashed purple;
+    text align: center;
+}
+.imagery {
+    border: 8px dashed turquoise;
+    text-align: center;
+}
+.imagery2 {
+    background-color: aliceblue;
+    border-radius: 30px;
+    border-style: dashed;
+}
